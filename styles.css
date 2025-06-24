@@ -1,3 +1,20 @@
 body {
     color: blue;
 }
+
+#test {
+    background: yellow;
+}
+
+#button {
+    background-color: blue;
+    color: red;
+}
+
+.my-Class{ 
+    width: 500px;
+}
+
+#mySpan {
+    background-color: blue;
+}
